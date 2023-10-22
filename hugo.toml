@@ -1,5 +1,0 @@
-baseURL = 'https://dansops.github.io/'
-languageCode = 'en-us'
-title = 'Spiro Danousis'
-theme = 'ananke'
-#theme = 'hugo-blog-awesome'
