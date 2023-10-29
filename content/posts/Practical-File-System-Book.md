@@ -3,15 +3,15 @@ title: 'Practical File System Design Book'
 date: 2023-10-29T14:40:38+02:00
 draft: false
 categories:
-- book
+- books
 - design
 - file systems
 tags:
-- book
+- books
 - design
 - file systems
 keywords:
-- book
+- books
 - design
 - file systems
 autoThumbnailImage: true
@@ -29,7 +29,7 @@ A few years ago I was working in Greece's National Centre of Scientific Research
 
 Happily I came across the wonderful book **"Practical File System Design with the Be File System"**, by Dominic Giampaolo.
 
-Dominic Giampaolo is a software engineer known for his expertise in file systems. He is particularly recognized for his work on the Be File System (BFS), which was the primary file system for the Be Operating System (BeOS). He is one of the two engineers that designed and implemented BFS.
+**Dominic Giampaolo** is a software engineer known for his expertise in file systems. He is particularly recognized for his work on the Be File System (BFS), which was the primary file system for the Be Operating System (BeOS). He is one of the two engineers that designed and implemented BFS.
 
 Throughout his career, Giampaolo has been involved in the development of various storage and file system technologies. Before working on BeOS, he was at Netscape, contributing to the development of the Netscape web browser. He worked at Apple, where was involved in the development of file systems and related technologies. Notably, he contributed to the APFS (Apple File System), which is the primary file system used in macOS, iOS, tvOS, and watchOS.
 
