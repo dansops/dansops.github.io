@@ -34,8 +34,7 @@ Then there is the **external context** of a distributed system: User demand, net
 Promise theory provides a foundational understanding of distributed systems. It introduces the entities of **agents** and **promises** . An agent is each component of the distributed system that makes 'promises' about its behavior. A promise is an assertion made by an agent about its behavior, without any compulsion to act in a particular way.Understanding how agents keep or break promises gives insights into the significance of observed behaviors.
 
 Observability requires tracing causality, not just metrics.
-Moving from Observability to Significance is akin to moving from recognizing signs(observable behaviors, metrics, or logs) to deciphering their meaning(the interpretation of signs, based on system knowledge and context).
-
+Moving from Observability to Significance is akin to moving from recognizing **signs** (observable behaviors, metrics, or logs) to deciphering their **meaning** (the interpretation of signs, based on system knowledge and context).
 Significance is not straightforward. Distributed systems are non-static, adapting and changing based on load, failures, and other factors. One component’s behavior can impact others. A problem in one node can cascade and affect the entire system. At the same time, the amounts of log data and metrics are huge and make it difficult to spot anomalies. Instrumentation should focus on significant events and semantics rather than exhaustive logs.
 
 That's why advanced tools and methodologies that can help derive significance are needed: machine learning algorithms that can detect anomalies, predict failures, and recognize patterns, and holistic monitoring AI Tools that not only show data but also provide contextual insights, correlating different metrics and logs.
