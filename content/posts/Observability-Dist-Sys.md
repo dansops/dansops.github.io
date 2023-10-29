@@ -42,6 +42,7 @@ That's why advanced tools and methodologies that can help derive significance ar
 
 Hopefully the latest revolution and prolifaration of generative AI will help in that direction. As previously mentioned, distributed information systems are complex and any insiught provided by an AI assistant (that doesn't hallucinate much) is more than welcome!
 
+P.S.: Still reading the paper...
 
 <!-- derive significance
 Here is a concise summary of the key points:
